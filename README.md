@@ -1,5 +1,5 @@
 # Git-for-Project
 
-# Pendahuluan
+# Daftar Isi
 
-## Apa itu Git ?
+## 1.1 Apa itu Git ?
