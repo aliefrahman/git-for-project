@@ -2,7 +2,7 @@
 
 # Daftar isi
 
-1.  [Apa itu GIT ?](https://google.com)
+1.  [Apa itu GIT ?](https://github.com/aliefrahman/git-for-project/blob/main/apa-itu-git.md#apa-itu-git-)
 2.  [Install git di sistem operasi ubuntu 22.04](https://google.com)
 
 Git adalah sistem kontrol versi terdistribusi yang dirancang untuk melacak perubahan dalam kode sumber selama pengembangan perangkat lunak. Diciptakan oleh Linus Torvalds pada tahun 2005—orang yang sama di balik kernel Linux—Git menjadi alat vital bagi pengembang di seluruh dunia.
